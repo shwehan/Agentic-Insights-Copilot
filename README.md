@@ -244,8 +244,13 @@ The ChromaDB vector store is baked into the Docker image at build time (`chroma_
 
 ## About
 
-This project was built by a Data Scientist with five years of experience in consumer analytics at Bank of America, focused on customer segmentation, behavioral modeling, and the intersection of data science and business strategy.
+Analytics planning — turning a stakeholder's ambiguous question into a 
+sound analytical approach — is a skill that often lives as tribal knowledge. 
+It happens informally, inconsistently, and takes years to develop.
 
-The motivation is practical: turning a stakeholder's question into a sound analytics plan is a skill that takes years to develop, and it often happens informally through tribal knowledge. This project explores whether RAG and structured LLM output can encode some of that domain expertise — making analytics planning faster, more consistent, and more accessible to teams earlier in the process.
+This project explores whether RAG and structured LLM output can encode 
+some of that domain expertise, making analytics planning faster, more 
+consistent, and more accessible to teams earlier in the process.
 
-It is also a hands-on exploration of agentic AI patterns applied to real analytical workflows, rather than synthetic toy problems.
+It is also a hands-on exploration of applying agentic AI patterns to 
+real analytical workflows, rather than synthetic toy problems.
