@@ -15,7 +15,7 @@
 
 **[https://co-42334f43db734366b0c188714c294893.ecs.us-east-1.on.aws](https://co-42334f43db734366b0c188714c294893.ecs.us-east-1.on.aws)**
 
-> Screenshot: [Add screenshot of UI here]
+> <img width="1898" height="770" alt="image" src="https://github.com/user-attachments/assets/cc029896-f7d0-409c-816d-c4d06bdf76ff" />
 
 ---
 
