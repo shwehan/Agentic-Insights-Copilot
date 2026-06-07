@@ -1,0 +1,6 @@
+-r requirements.txt
+langchain-ollama==0.2.3
+torch==2.6.0
+transformers==4.51.3
+jupyter==1.1.1
+jupyterlab==4.4.2

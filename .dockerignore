@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.git/
+*.md
+requirements-dev.txt
+.DS_Store
+eval/
+docs/
+prompts/
